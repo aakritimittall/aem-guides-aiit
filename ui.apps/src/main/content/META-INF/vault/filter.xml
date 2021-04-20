@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aiit-4573/clientlibs"/>
+    <filter root="/apps/aiit-4573/components"/>
+    <filter root="/apps/aiit-4573/i18n"/>
+</workspaceFilter>

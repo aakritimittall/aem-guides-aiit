@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aiit-4573" mode="merge"/>
+    <filter root="/content/aiit-4573" mode="merge"/>
+    <filter root="/content/dam/aiit-4573" mode="merge"/>
+    <filter root="/content/experience-fragments/aiit-4573" mode="merge"/>
+</workspaceFilter>
